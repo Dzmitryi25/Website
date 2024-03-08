@@ -1,0 +1,13 @@
+{
+    "name": "astra/test-block",
+    "title": "Test Block",
+    "icon": "smiley",
+    "category": "common",
+    "attributes": {},
+    "supports": {},
+    "example": {
+        "attributes": {}
+    },
+    "edit": "function() { return '<div>This is a test block!</div>'; }",
+    "save": "function() { return '<div>This is a test block!</div>'; }"
+}
